@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCPMT7", "CCPMT7\CCPMT7.csproj", "{0C565FF2-937C-47B7-BEF7-183CB4A896DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C565FF2-937C-47B7-BEF7-183CB4A896DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C565FF2-937C-47B7-BEF7-183CB4A896DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C565FF2-937C-47B7-BEF7-183CB4A896DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C565FF2-937C-47B7-BEF7-183CB4A896DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C7CCF1-84E1-4D1A-A774-E45A3FB386D2}
+	EndGlobalSection
+EndGlobal
